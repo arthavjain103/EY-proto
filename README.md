@@ -55,11 +55,16 @@ A natural language chatbot that:
 * JavaScript (ES6+)
 
 ### Backend 
-*Python (Flask)
-*LangChain (agent orchestration & reasoning chains)
-*HuggingFace Transformers (NLP models for intent detection & responses)
-*Multi-agent architecture
-*Mock & extensible APIs (credit_bureau api offer_mart apis)
+* Python (FastAPI)
+* LangChain (agent orchestration & reasoning chains)
+* HuggingFace Transformers (NLP models for intent detection & responses)
+* Multi-agent architecture
+* Mock & extensible APIs (credit_bureau api offer_mart apis)
+* Scikit-Learn
+
+### Database
+* PostgreSQL
+* MongoDB
 
 ---
 ## 📁 Project Structure
